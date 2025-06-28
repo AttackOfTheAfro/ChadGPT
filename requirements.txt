@@ -1,0 +1,7 @@
+openai
+pyttsx3
+keyboard
+speechrecognition
+requests
+beautifulsoup4
+twitchio
